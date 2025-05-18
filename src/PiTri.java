@@ -5,6 +5,8 @@ public class PiTri {
             System.out.println("Введите количество пифагоровых троек для вывода или введите три числа для проверки.");
             return;
         }
+
+        //comment for new commit
         if(args.length == 1){ //вывести N троек
             int N = Integer.parseInt(args[0]);
             int a = 1;
