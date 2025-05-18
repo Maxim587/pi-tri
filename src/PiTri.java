@@ -7,6 +7,7 @@ public class PiTri {
         }
 
         //comment for new commit
+        //second comment for commit
         if(args.length == 1){ //вывести N троек
             int N = Integer.parseInt(args[0]);
             int a = 1;
